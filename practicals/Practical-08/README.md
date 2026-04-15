@@ -49,9 +49,6 @@ openstack project create --description "Cloud Lab Project" Lab-Project-01
 openstack flavor create --id 1 --ram 1024 --disk 10 --vcpus 1 m1.lab
 
 # Upload Ubuntu Image to Glance
-openstack image create "Ubuntu-Cloud" \
-  --file focal-server-cloudimg-amd64.img \
-  --disk-format qcow2 --container-format bare --public
 
 # Launch the Instance
 openstack server create --flavor m1.lab --image Ubuntu-Cloud \
