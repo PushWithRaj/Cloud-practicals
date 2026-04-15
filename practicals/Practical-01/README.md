@@ -39,3 +39,14 @@ graph TD
     F --> G[Access Pricing Calculator]
     G --> H[Estimate Resource Costs]
     H --> I[End/Documentation]
+```
+
+### Configuration Parameters for Free Tier
+
+| Platform | Validation Method | Key Free Tier Limit |
+| :--- | :--- | :--- |
+| AWS | Credit/Debit Card | 12 Months (750 hours EC2/mo) |
+| Azure | Credit/Debit Card | 12 Months + Initial Credits |
+| GCP | Credit/Debit Card | 90 Days + $300 Credit |
+## Conclusion
+The fundamental interfaces and service hierarchies of AWS, Azure, and GCP were successfully explored. The exercise established an understanding of how to manage cloud resources and utilize cost-estimation tools to maintain budget compliance.  
