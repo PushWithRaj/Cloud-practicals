@@ -11,6 +11,8 @@
 * **[span_4](start_span)Microsoft Azure:** Deeply integrated with Microsoft software and enterprise environments.[span_4](end_span)
 * **[span_5](start_span)GCP (Google Cloud Platform):** Known for high-performance computing, data analytics, and machine learning.[span_5](end_span)
 
+## Account screenshot
+
 ## Core Service Categories
 * **[span_6](start_span)Compute:** Virtual servers that process data (e.g., EC2, Virtual Machines).[span_6](end_span)
 * **[span_7](start_span)Storage:** Systems to save and retrieve data (e.g., S3, Blob Storage).[span_7](end_span)
