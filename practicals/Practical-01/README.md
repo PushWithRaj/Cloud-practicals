@@ -12,6 +12,7 @@
 * **[span_5](start_span)GCP (Google Cloud Platform):** Known for high-performance computing, data analytics, and machine learning.[span_5](end_span)
 
 ## Account screenshot
+<img width="1347" height="427" alt="a1" src="https://github.com/user-attachments/assets/67d164d0-609c-4cec-a78b-ab198b31ac1d" />
 
 ## Core Service Categories
 * **[span_6](start_span)Compute:** Virtual servers that process data (e.g., EC2, Virtual Machines).[span_6](end_span)
