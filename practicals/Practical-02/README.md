@@ -56,6 +56,8 @@ graph TD
 ```
 
 ---
+## E2c service
+<img width="1329" height="578" alt="a2" src="https://github.com/user-attachments/assets/413cea0b-5ee2-402e-8660-cb09d91c20ce" />
 
 ## Security Group Rules (Inbound)
 
